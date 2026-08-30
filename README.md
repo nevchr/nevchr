@@ -6,19 +6,19 @@ I'm interested in software development, systems, networking, and building practi
 
 ## Projects
 
-### SysDeck
+### [SysDeck](https://github.com/nevchr/SysDeck)
 Windows desktop utility for system monitoring, indexed file search,
 storage analysis, duplicate detection, and file organization.
 
 **Python • PySide6 • SQLite • psutil**
 
-### LAN Observer
+### [LAN Observer](https://github.com/nevchr/lan-observer)
 Local network monitoring dashboard for discovering and tracking
 devices across a LAN.
 
 **Python • Flask • SQLite • HTML/CSS • JavaScript**
 
-## Technologies
+## Tech Stack
 
 Python • Java • JavaScript • HTML/CSS  
 Flask • PySide6 • SQLite  

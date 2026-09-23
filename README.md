@@ -1,49 +1,44 @@
-# Chris Neville
+<h1 align="center">Chris Neville</h1>
 
-Computer Science (Honours) co-op student at Carleton University in Ottawa, Ontario.
+<p align="center">
+  <img src="assets/profile-banner.svg" width="100%" alt="Original dark-blue graphic for Chris Neville's software and systems work">
+</p>
 
-I build practical software for desktop workflows, local systems, networking, audio exploration, and geospatial tools. My recent work focuses on reliable Windows applications, local processing, and clear interfaces.
+<p align="center"><strong>Computer Science (Honours) Co-op · Carleton University · Ottawa, Canada</strong></p>
 
-## Selected Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-172338?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-172338?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Desktop_Applications-172338?style=flat-square&logo=windows&logoColor=white" alt="Desktop applications">
+  <img src="https://img.shields.io/badge/Systems_Tools-172338?style=flat-square&logoColor=white" alt="Systems tools">
+</p>
 
-### [Folder City](https://github.com/nevchr/Folder-City)
-A read-only Windows desktop app that turns a local folder into an interactive 3D city for visual file-system exploration.
+<p align="center">I build practical software for desktop workflows, local systems, networking, audio exploration, and geospatial tools.</p>
 
-**Electron · React · TypeScript · Three.js**
+### Featured Projects
 
-### [Sound Constellations](https://github.com/nevchr/Sound-Constellations)
-An offline Windows audio explorer that maps local sample libraries by acoustic similarity, with waveform previews and 2D or 3D exploration.
+**[Folder City](https://github.com/nevchr/Folder-City)** — A read-only Windows application that turns a local folder into an interactive 3D city for file-system exploration.
 
-**Electron · React · TypeScript · Three.js · FFmpeg · Meyda · SQLite**
+**[Sound Constellations](https://github.com/nevchr/Sound-Constellations)** — An offline audio explorer that maps local sample libraries by acoustic similarity, with waveform previews and 2D or 3D views.
 
-### [PhotoTrace](https://github.com/nevchr/PhotoTrace)
-A Windows desktop app that matches photo timestamps to GPX tracks and creates geotagged copies without modifying the originals.
+**[PhotoTrace](https://github.com/nevchr/PhotoTrace)** — A desktop tool that matches photo timestamps to GPX tracks and creates geotagged copies without changing the originals.
 
-**Python · PySide6 · GPX · EXIF · Leaflet**
+**[SysDeck](https://github.com/nevchr/SysDeck)** — A Windows utility for system monitoring, indexed file search, storage analysis, duplicate detection, and file organization.
 
-### [SysDeck](https://github.com/nevchr/SysDeck)
-A Windows desktop utility for system monitoring, indexed file search, storage analysis, duplicate detection, and file organization.
+**[LAN Observer](https://github.com/nevchr/lan-observer)** — A local network dashboard for device discovery, status tracking, vendor details, and recognized devices.
 
-**Python · PySide6 · SQLite · psutil**
+**[Protocol: Eclipse](https://github.com/nevchr/Protocol-Eclipse)** — An interactive Python course project with resource management, decision-driven events, randomized encounters, and graph-based navigation.
 
-### [LAN Observer](https://github.com/nevchr/lan-observer)
-A local network dashboard for discovering devices and tracking status, vendor details, and recognized devices.
-
-**Python · Flask · SQLite · HTML/CSS · JavaScript**
-
-### [Protocol: Eclipse](https://github.com/nevchr/Protocol-Eclipse)
-An interactive Python course project featuring resource management, decision-driven events, randomized encounters, and graph-based navigation.
-
-**Python**
-
-## Tech Stack
+### Technical Skills
 
 **Languages:** Python · Java · TypeScript · JavaScript · HTML/CSS  
 **Applications:** Electron · PySide6 · React · Flask · Three.js  
 **Systems & tools:** SQLite · Docker · Linux · Windows · Git · GitHub
 
-## Current Focus
+> [!NOTE]
+> Open to Summer 2027 software, IT, and technical co-op opportunities.
 
-Studying Computer Science at Carleton University and seeking Summer 2027 software, IT, and technical co-op opportunities.
-
-More about my work: [nevchr.com](https://nevchr.com).
+<p align="center">
+  <a href="https://nevchr.com"><img src="https://img.shields.io/badge/Portfolio-nevchr.com-172338?style=flat-square&labelColor=2d67b0" alt="Portfolio: nevchr.com"></a>
+  <a href="mailto:chris@chrisneville.ca"><img src="https://img.shields.io/badge/Email-chris%40chrisneville.ca-172338?style=flat-square&labelColor=2d67b0" alt="Email: chris@chrisneville.ca"></a>
+</p>

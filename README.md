@@ -1,4 +1,4 @@
-<h1 align="center">Chris Neville</h1>
+<h1 align="center">Christopher Neville</h1>
 
 <p align="center">
   <img src="assets/profile-banner.svg" width="100%" alt="Original dark-blue graphic for Chris Neville's software and systems work">

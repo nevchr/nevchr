@@ -25,14 +25,22 @@
 
 **[SysDeck](https://github.com/nevchr/SysDeck)** — A Windows utility for system monitoring, indexed file search, storage analysis, duplicate detection, and file organization.
 
-**[LAN Observer](https://github.com/nevchr/lan-observer)** — A local network dashboard for device discovery, status tracking, vendor details, and recognized devices.
+**[LAN Observer](https://github.com/nevchr/lan-observer)** — A local network dashboard with network-scoped discovery, timestamped device evidence, scan history, and a tested Flask/SQLite backend.
 
 **[Protocol: Eclipse](https://github.com/nevchr/Protocol-Eclipse)** — An interactive Python course project with resource management, decision-driven events, randomized encounters, and graph-based navigation.
+
+### Recent Projects
+
+**[AudioGrab](https://github.com/nevchr/AudioGrab)** — A Windows desktop utility that converts local media and direct downloadable media URLs to audio with Python, PySide6, and FFmpeg.
+
+**[Browser Terrarium](https://github.com/nevchr/Browser-Terrarium)** — A Chrome extension that turns local browsing activity into a deterministic botanical diorama, built with React, TypeScript, and Canvas.
+
+**[Internet Aquarium](https://github.com/nevchr/Internet-Aquarium)** — A local-only browser extension that turns hostname activity into illustrated fish, with consent-based tracking and safe data import/export.
 
 ### Technical Skills
 
 **Languages:** Python · Java · TypeScript · JavaScript · HTML/CSS  
-**Applications:** Electron · PySide6 · React · Flask · Three.js  
+**Applications:** Electron · PySide6 · React · Flask · Three.js · Browser extensions · Canvas  
 **Systems & tools:** SQLite · Docker · Linux · Windows · Git · GitHub
 
 > [!NOTE]

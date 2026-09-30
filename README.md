@@ -17,6 +17,8 @@
 
 ### Featured Projects
 
+**[Field Kit](https://github.com/nevchr/Field-Kit)** - An offline texture and sound workbench with image and audio edits, verified backups, transactional Trash/restore, batch history, and game-asset exports.
+
 **[Folder City](https://github.com/nevchr/Folder-City)** — A read-only Windows application that turns a local folder into an interactive 3D city for file-system exploration.
 
 **[Sound Constellations](https://github.com/nevchr/Sound-Constellations)** — An offline audio explorer that maps local sample libraries by acoustic similarity, with waveform previews and 2D or 3D views.
@@ -43,9 +45,11 @@
 
 **[Fly Gets a Software Job](https://github.com/nevchr/Fly-Gets-a-Software-Job)** - A FastAPI, React, and Three.js simulation with persisted hiring states, WebSocket updates, and an adapter for the attributed MaleCNS fly-connectome model.
 
+**[Brightspace Dark+](https://github.com/nevchr/Brightspace-Dark-Plus)** - An opt-in browser extension with adaptive dark styling and per-site permission controls for Brightspace.
+
 ### Technical Skills
 
-**Languages:** Dart · Python · Java · TypeScript · JavaScript · HTML/CSS  
+**Languages:** Go · Dart · Python · Java · TypeScript · JavaScript · HTML/CSS  
 **Applications:** Flutter · FastAPI · Electron · PySide6 · React · Flask · Three.js · Browser extensions · Canvas  
 **Systems & tools:** SQLite · Docker · Linux · Windows · Git · GitHub
 

@@ -47,6 +47,8 @@
 
 **[Brightspace Dark+](https://github.com/nevchr/Brightspace-Dark-Plus)** - An opt-in browser extension with adaptive dark styling and per-site permission controls for Brightspace.
 
+**[Seceda — A ridge walk](https://github.com/nevchr/Seceda-Ridge-Walk)** - An offline Three.js and Electron landscape prototype with surveyed elevation data, authored walking controls, and separately versioned, checksum-verified licensed runtime assets.
+
 ### Technical Skills
 
 **Languages:** Go · Dart · Python · Java · TypeScript · JavaScript · HTML/CSS  

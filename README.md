@@ -37,10 +37,16 @@
 
 **[Internet Aquarium](https://github.com/nevchr/Internet-Aquarium)** — A local-only browser extension that turns hostname activity into illustrated fish, with consent-based tracking and safe data import/export.
 
+**[WaveSort](https://github.com/nevchr/WaveSort)** - An offline Windows sample-library organizer with cancellable scanning, saved corrections, and journaled copy, move, resume, and undo operations.
+
+**[StudentFlow](https://github.com/nevchr/StudentFlow)** - A Flutter budgeting prototype with encrypted local storage, CSV imports, fictional demo data, and tested accessible layouts.
+
+**[Fly Gets a Software Job](https://github.com/nevchr/Fly-Gets-a-Software-Job)** - A FastAPI, React, and Three.js simulation with persisted hiring states, WebSocket updates, and an adapter for the attributed MaleCNS fly-connectome model.
+
 ### Technical Skills
 
-**Languages:** Python · Java · TypeScript · JavaScript · HTML/CSS  
-**Applications:** Electron · PySide6 · React · Flask · Three.js · Browser extensions · Canvas  
+**Languages:** Dart · Python · Java · TypeScript · JavaScript · HTML/CSS  
+**Applications:** Flutter · FastAPI · Electron · PySide6 · React · Flask · Three.js · Browser extensions · Canvas  
 **Systems & tools:** SQLite · Docker · Linux · Windows · Git · GitHub
 
 > [!NOTE]
